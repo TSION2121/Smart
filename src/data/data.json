@@ -1,0 +1,200 @@
+{
+  "Header": {
+    "title": "Have you ever thought of that plastic bottles are no more waste?",
+    "paragraph": "Once you throw it anywhere a waste , Once you scan it in our box a Tiles",
+    "Author": "Tsion Bizuayehu "
+  },
+  "About": {
+    "paragraph": "Smart utilization of plastic bottles  in the production of paver blocks is  formed by  4th year AASTU students assigned by the University for IETP course. The team is organized to address the issue of plastic bottles taken as waste by recycling the bottles in smart way for the production of paver blocks",
+    "Why": [
+      "Clean Environment",
+      "Smart City",    
+      "Make Durable Products",
+      "Economical Resource"
+    ],
+    "Why2": [
+      "Count the recycling rate",
+      "Collect Plastics",
+      "Building Paver Blocks",
+      "Standard Furniture"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "img": "img/products/01.jpeg",
+      "name": "A website",
+      "text": "A website for the Smart utilization of plastic bottles  in the production of paver blocks system "
+    },
+    {
+      "img": "img/products/02.jpeg",
+      "name": "A detection system",
+      "text": "A system that is assembled with Arduino, PIR sensors , with  it's setup for the presence of plastic bottles "
+    },
+    {
+      "img": "img/products/03.jpeg",
+      "name": "A Storage System",
+      "text": "A Storage  container for the plastics "
+    },
+    {
+      "img": "img/products/04.jpeg",
+      "name": "Grinded Plastics",
+      "text": "Grinded Plastics into tiny particles"
+    },
+    {
+      "img": "img/products/05.jpeg",
+      "name": "Melted plastics ",
+      "text": "Melted plastics from the grinded plastic bottles "
+    },
+    {
+      "img": "img/products/06.jpeg",
+      "name": "Ready made tiles, paver bricks",
+      "text": ""
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Tsion Bizuayehu",
+      "job": "4th year Software Engineering Student"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Meron Edea",
+      "job": "4th year Software Engineering Student"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Eden Getachew",
+      "job": "4th year Electrical Engineer Student"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Tensae Shawel",
+      "job": "4th year Mechanical Engineering Student"
+    },
+    {
+      "img": "img/team/05.jpg",
+      "name": "Yabets Enemanachew",
+      "job": "4th year Architecture Student"
+    },
+    {
+      "img": "img/team/06.jpg",
+      "name": "Mezmur Workeneh ",
+      "job": "4th year Electromechanical Engineering Student"
+    },
+    {
+      "img": "img/team/07.jpg",
+      "name": "Neamen Getaway",
+      "job": "4th year Civil Engineering Student"
+    }
+  ],
+  "Contact": {
+    "address": "Addis Ababa, AASTU",
+    "phone": "+251 912 234 123",
+    "email": "smartzones3015@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
